@@ -2,6 +2,6 @@ certifi==2019.3.9
 chardet==3.0.4
 coreapi==2.3.3
 coreschema==0.0.4
-Django==2.2
+Django==2.2.10
 djangorestframework==3.9.2
 gunicorn==19.9.0
